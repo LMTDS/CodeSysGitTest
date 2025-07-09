@@ -29,3 +29,5 @@ project/**/*.theirs
 
 # Ignore .apsession
 .apsession
+
+project/project_settings_6470a90f/
